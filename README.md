@@ -2,6 +2,8 @@
 
 I'm a computer engineering student who does a fair amount of coding and playing around with Arudinos (go figure). Currently learning how to use PHP and MySQL as part of a LAMP stack and how to use React, Tailwind CSS, and more through NextJS. Always looking to learn new things about programming, engineering, or music playing.
 
+If you want to reach out, my Discord username is sir_scotterington.
+
 <!--
 **SirScotterington/SirScotterington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
